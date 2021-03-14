@@ -1,0 +1,10 @@
+.types__absolut{
+     background-image: url(../../../images/human_full.svg);
+     background-position: right;
+     background-size: 12px 12px;
+     background-repeat: no-repeat;
+     opacity: 30%;
+     display: flex;
+     justify-content: flex-end;
+     margin-top: 5px;
+}

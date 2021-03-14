@@ -1,0 +1,7 @@
+.chart__description{
+     display: flex;
+     flex-direction: column;
+     max-width: 150px;
+     text-align: center;
+     margin: 84px auto 0 auto;
+}

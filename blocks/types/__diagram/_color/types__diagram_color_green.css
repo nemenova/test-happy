@@ -1,0 +1,33 @@
+.types__diagram_color_green{
+     background-color: #f9f9f9;
+     border: 1px solid #f0f0f0;
+     border-radius: 3px;
+     min-height: 100%;
+     width: 100%;
+     position: relative;
+}
+.types__diagram_color_green::before{
+     content: '';
+     background-color:#70a74b;
+    ;
+     background-size: 30px 20px;
+     border-radius: 3px 0 0 ;
+     position: absolute;
+     top: 0;
+     right: 68%;
+     bottom: 20%;
+     left: 0;
+     animation: scale 0.5s linear 0.1s 1 normal forwards running;
+}
+ .types__diagram_color_green::after{
+     content: '';
+     background-color: #b5d0a2;
+     background-size: 15px 20px;
+     border-radius: 0 0 0 3px;
+     position: absolute;
+     top: 80%;
+     right: 69.2%;
+     bottom: 0;
+     left: 0;
+     animation: scale 0.5s linear 0.1s 1 normal forwards running;
+}

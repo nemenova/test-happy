@@ -1,0 +1,8 @@
+.chart{
+     background-image: url(../../images/chart.svg);
+     background-position: center;
+     background-repeat: no-repeat;
+     min-height: 281px;
+     display: flex;
+     flex-direction: column;
+}

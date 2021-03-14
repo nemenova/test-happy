@@ -1,0 +1,10 @@
+.types__list{
+     list-style-type: none;
+     display: grid;
+     grid-template-columns: min-content min-content 88px;
+     grid-template-rows: 1fr 1fr 1fr;
+     gap: 17px 10px;
+     padding: 0;
+     padding-left: 11px;
+     margin: 0;
+}

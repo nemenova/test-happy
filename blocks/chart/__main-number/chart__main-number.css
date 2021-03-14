@@ -1,0 +1,8 @@
+.chart__main-number{
+     display: grid;
+     grid-template-columns: 1fr max-content;
+     grid-template-rows: min-content ;
+     margin: auto;
+     font-family: 'Gotham Pro';
+     
+}

@@ -1,0 +1,11 @@
+.side-line__bottom{
+     border-left: 1px solid #b1b1b1;
+     border-bottom: 1px solid #b1b1b1;
+     border-radius: 0 0 0 5px;
+     width: 20px;
+     min-height: 53px;
+     margin: auto;
+     position: absolute;
+     top: 333px;
+     left: 14px;
+}

@@ -1,0 +1,11 @@
+.side-line__button{
+     background-color: white;
+     font-size: 27px;
+     line-height: 0.9;
+     color: #b1b1b1;
+     margin-left: -8px;
+     margin-top: 19px;
+     padding: 0;
+     border: none;
+     cursor: pointer;
+}

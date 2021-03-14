@@ -1,0 +1,9 @@
+.chart__decimal{
+     font-size: 26px;
+     line-height:23px;
+     font-weight: 400;
+     text-align: right;
+     color: #5b5b5b;
+     margin: 0;
+     padding: 0;
+}
