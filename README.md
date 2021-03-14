@@ -8,4 +8,4 @@ SVG-graphic included
 
 In the future: add .js skripts, remake animation, provide interactivity    
       
-Active link to fast see https://nemenova.github.io/Test-happy/.
+Active link to fast see https://nemenova.github.io/test-happy/.
